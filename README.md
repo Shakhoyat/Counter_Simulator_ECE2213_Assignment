@@ -43,7 +43,11 @@ Ensure you have Python installed (Python 3.x recommended).
 | **X Input Buttons** | Sets input X to `0` or `1` |
 
 ## Screenshots
-*(Include screenshots of the UI if available)*
+![Counter Simulation UI](task1_screenshots/s1.png)
+![Counter Simulation UI](task1_screenshots/s2.png)
+![Counter Simulation UI](task1_screenshots/s3.png)
+![Counter Simulation UI](task1_screenshots/s4.png)
+![Counter Simulation UI](task1_screenshots/s5.png)
 
 
 # State Machine Simulation TASK 2
@@ -83,8 +87,11 @@ Ensure you have Python installed (Python 3.x recommended).
 | **Truth Table Button** | Displays the complete truth table in a new window |
 
 ## Screenshots
-
-
+![State Machine UI](task2_screenshots/ss2.1.png)
+![State Machine UI](task2_screenshots/ss2.2.png)
+![State Machine UI](task2_screenshots/ss2.3.png)
+![State Machine UI](task2_screenshots/ss2.4.png)
+![State Machine UI](task2_screenshots/ss2.5.png)
 ## License
 This project is licensed under the MIT License.
 
